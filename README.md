@@ -12,7 +12,8 @@ Our team has been tasked with creating a GUI desktop application for a restaraun
 6. See the current waitlist of all those in front of the customers
 7. Enter in payment and contact information
 8. Allow customers to see their expected wait time for orders
-9. A way for restaurant owners to add new items as well as give coupons
+9. A way for restaurant owners to add new items
+10. A way to give coupons to frequent customers
 
 ## Project Requirements
 - [JAVA SDK](https://www.oracle.com/java/technologies/downloads/) 
