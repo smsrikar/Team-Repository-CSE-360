@@ -25,3 +25,10 @@ Our team has been tasked with creating a GUI desktop application for a restaraun
 - [ ] Importing elements and navigation :computer_mouse:
 - [ ] Setting up class windows and format :keyboard:
 - [ ] Designing windows :bar_chart:
+
+
+## Phases
+- [ ] Phase 1
+- [ ] Phase 2
+- [ ] Phase 3
+- [ ] Phase 4
