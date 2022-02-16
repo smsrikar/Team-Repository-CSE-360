@@ -15,6 +15,7 @@ Our team has been tasked with creating a GUI desktop application for a restaraun
 9. Allow customers to see their expected wait time for orders
 10. A way for restaurant owners to add new items
 11. A way to give coupons to frequent customers
+12. Allow the customer to store their delivery address.
 
 ## Project Requirements
 - [JAVA SDK](https://www.oracle.com/java/technologies/downloads/) 
